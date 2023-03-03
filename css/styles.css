@@ -63,3 +63,14 @@
 
 }
 
+/* Banner */
+
+.img-fondo{
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    position: relative;
+    background-size:cover;
+    width: 1525px;
+    height: 450px;
+    top: 81px;
+    margin-top: -97px;
+}
